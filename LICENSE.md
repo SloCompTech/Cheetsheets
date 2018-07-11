@@ -1,2 +1,1 @@
-
-Copyright (C) 2018 
+Feel free to use
